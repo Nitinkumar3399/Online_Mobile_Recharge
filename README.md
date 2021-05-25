@@ -1,5 +1,72 @@
 ## Online_Mobile_Recharge_Website
-Website for making online Prepaid &amp; Postpaid Recharge of Mobile with Any type of Operator you have.
+#### **_Website for making online Prepaid &amp; Postpaid Recharge of Mobile with Any type of Operator you have._**
+
+### Language used :-
+
+#### **For Back – end** or server side scripting -> I have used PHP and MYSQL Database with SQL , API’s(Application programming Interface). 
+
+#### **For Front  - end** or Client side scripting ->  I have used HTML , CSS , JAVASCRIPT , JQUERY , BOOTSTRAP , etc.
+
+### Features that I have included in my website :-
+
+#### You can check all features mentioned below on my website , link is given above :-
+1.	_I have included SMTP Email verification of user’s Registered account on my website.With email verification you will also see a ‘welcome message’ attachment for you.if you click on account verification link then your acccount is verified and you will be redirecting to login page.Without verifying account you are not able to login so ensure that your account must have been verified. Not verified accounts deleted automatically within 5 days._
+
+2.	_I have also given an option to a user of my website to LOGIN WITH OTP Directly into their user’s account without entering password. This will really helpful in case of FORGOT PASSWORD. And also this feature maintains high security of user account because OTP only sented to the user’s registered email.So I requested to you, not share this OTP with unknown anyone else._
+
+3.	_You will receive OTP on your Registered email with us, and you will also see an “welcome message” attachement in pdf format added for you.This attachement feature is also very interesting and useful when you request for some information in pdf format. _
+
+4.	_There is  Login with Email and password feature also available ._
+
+5.	_For this Registeration on my website I have also saved Live information of my user in my database in actual. I have created 2 tables in database named as ‘all_users’  and ‘otp_login’._
+
+6.	_First of all just by going on to a website you will not be able to use services provided by me on my website , you must have to  register first. There is Register option is also available._
+
+7.	_All above features mentioned are related to user’s secure Authentication._
+
+8.	_Now after authentication or login into your account you will be able to recharge your mobile, also there is PLANS FEATURE available  so that you can easily select which type of recharge you want to do ._
+
+9.	_After selecting plans you will be redirecting to payment gateway option where you can edit your actual TOTAL amount just by clicking on it and proceed for payment._
+
+10.	_ **Warning :**- careful regarding payment , do not enter your actual details on gateway like debit card , credit  card or netbanking user id and password details. But you can enter your mobile no. of paytm  so that you can check OTP received or not , before payment on your mobile number. _
+
+11.	 _You can use easily all other debit card features or credit card features with these Dummy details shown below Because these are set in Source code for testing environment.If you want to use debit card , use testing details of debit card for your successful transaction._
+
+![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Test%20Debit%20Card.png)
+
+![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Test%20Wallet%20details.png)
+
+![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/UPI%20test%20details.png)
+
+12.	Payment gateway that I have used in my website is real paytm payment gatway but right now it is in TESTING MODE.if you enter correct details of debit etc.on gateway then amount is deducted from your account but after deducting where it is going I really don’t know because my account is not attached with this kit , so you have to ensure that amount is not coming to my account I have provided a link below for your satisfaction that  it is a real gateway.
+
+Link 1  https://www.youtube.com/watch?v=oQRtrsluxfk
+
+Official link  https://business.paytm.com/
+
+13.	If you use that paytm gateway for succesfull payment then I have received ‘payment message’ for exact amount on my mobile phone as well as on email with order ID , customer ID , Transaction date , Amount etc. details.
+
+14.	I have used  3 free API’s  for this project :-
+
+I.	Paytm Payment Gateway integration API.
+II.	SMTP email sending API from SENDGRIDS.
+III.	OTP sending API.(I have used here rand function for sending random OTPs of 6 digit). 
+
+Official link for sendgrid website   https://sendgrid.com/
+
+15.	You can recharge for both type prepaid as well as postpaid and also all plans are available.
+
+16.	All types of payment options are  available  with all banks .My payment gateway also used for PRODUCTION as well, only what we have to do is that changing or setting the variable PAYTM_ENVIRONMENT from ‘Test’ to ‘PROD’ in config_paytm.php file present in PaytmKit Folder.
+
+17.	There is also feedback page , support page, Contact page , About us page , terms and conditions page and FAQ available for your communication with us and  to provide best services to you.
+Have so many things to tell but I tried to keep this report as short as possible.
+But I have explained all the basic features here. 
+Please VISIT WEBSITE ONCE.   http://onlinemobilerecharge325-com.stackstaging.com/
+How eager you are to see my live website.
+
+Other things you will know after visiting the website
+Thank You.
+
 
 ![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Screenshot%20(15).png)
 ![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Screenshot%20(16).png)
