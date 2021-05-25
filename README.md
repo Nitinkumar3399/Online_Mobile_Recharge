@@ -28,44 +28,51 @@
 
 9.	_After selecting plans you will be redirecting to payment gateway option where you can edit your actual TOTAL amount just by clicking on it and proceed for payment._
 
-10.	_ **Warning :**- careful regarding payment , do not enter your actual details on gateway like debit card , credit  card or netbanking user id and password details. But you can enter your mobile no. of paytm  so that you can check OTP received or not , before payment on your mobile number. _
+10.	**Warning :-** _Careful regarding payment , do not enter your actual details on gateway like debit card , credit  card or netbanking user id and password details. But you can enter your mobile no. of paytm  so that you can check OTP received or not , before payment on your mobile number ._
 
 11.	 _You can use easily all other debit card features or credit card features with these Dummy details shown below Because these are set in Source code for testing environment.If you want to use debit card , use testing details of debit card for your successful transaction._
 
 ![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Test%20Debit%20Card.png)
 
+---
 ![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Test%20Wallet%20details.png)
 
+--- 
 ![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/UPI%20test%20details.png)
 
-12.	Payment gateway that I have used in my website is real paytm payment gatway but right now it is in TESTING MODE.if you enter correct details of debit etc.on gateway then amount is deducted from your account but after deducting where it is going I really don’t know because my account is not attached with this kit , so you have to ensure that amount is not coming to my account I have provided a link below for your satisfaction that  it is a real gateway.
+---
+12.	_Payment gateway that I have used in my website is real paytm payment gatway but right now it is in TESTING MODE.if you enter correct details of debit etc.on gateway then amount is deducted from your account but after deducting where it is going I really don’t know because my account is not attached with this kit , so you have to ensure that amount is not coming to my account I have provided a link below for your satisfaction that  it is a real gateway._
 
-Link 1  https://www.youtube.com/watch?v=oQRtrsluxfk
+**-> Official Link**
+* [Paytm Business for payment Gaetway](https://business.paytm.com/) 
 
-Official link  https://business.paytm.com/
+13.	_If you use that paytm gateway for succesfull payment then I have received ‘payment message’ for exact amount on my mobile phone as well as on email with order ID , customer ID , Transaction date , Amount etc. details._
 
-13.	If you use that paytm gateway for succesfull payment then I have received ‘payment message’ for exact amount on my mobile phone as well as on email with order ID , customer ID , Transaction date , Amount etc. details.
+#### 14.	I have used  3 free API’s  for this project :-
 
-14.	I have used  3 free API’s  for this project :-
+##### I.	_Paytm Payment Gateway integration API._
 
-I.	Paytm Payment Gateway integration API.
-II.	SMTP email sending API from SENDGRIDS.
-III.	OTP sending API.(I have used here rand function for sending random OTPs of 6 digit). 
+##### II.	_SMTP email sending API from SENDGRIDS._ 
 
-Official link for sendgrid website   https://sendgrid.com/
+##### III.	_OTP sending API.(I have used here rand function for sending random OTPs of 6 digit). _
 
-15.	You can recharge for both type prepaid as well as postpaid and also all plans are available.
+**-> Official link**
+* [For Sendgrid Website](https://sendgrid.com/) 
 
-16.	All types of payment options are  available  with all banks .My payment gateway also used for PRODUCTION as well, only what we have to do is that changing or setting the variable PAYTM_ENVIRONMENT from ‘Test’ to ‘PROD’ in config_paytm.php file present in PaytmKit Folder.
+15.	_You can recharge for both type prepaid as well as postpaid and also all plans are available ._
 
-17.	There is also feedback page , support page, Contact page , About us page , terms and conditions page and FAQ available for your communication with us and  to provide best services to you.
-Have so many things to tell but I tried to keep this report as short as possible.
-But I have explained all the basic features here. 
-Please VISIT WEBSITE ONCE.   http://onlinemobilerecharge325-com.stackstaging.com/
-How eager you are to see my live website.
+16.	_All types of payment options are  available  with all banks .My payment gateway also used for PRODUCTION as well, only what we have to do is that changing or setting the variable PAYTM_ENVIRONMENT from ‘Test’ to ‘PROD’ in config_paytm.php file present in PaytmKit Folder._
 
-Other things you will know after visiting the website
-Thank You.
+17.	_There is also feedback page , support page, Contact page , About us page , terms and conditions page and FAQ available for your communication with us and  to provide best services to you._
+
+**Have so many things to tell but I tried to keep this report as short as possible.
+But I have explained all the basic features here. **
+
+---
+#### How eager you are to see my live website.
+#### Other things you will know after visiting the website.
+
+#### **Thank You.**
 
 
 ![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Screenshot%20(15).png)
