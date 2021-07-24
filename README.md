@@ -188,5 +188,5 @@
 
 ![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Screenshot%20(70).png)
 
-![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/InkedWhatsApp%20Image%202020-11-17%20at%204.44.31%20PM_LI.jpg)
+<img align="left" src="https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/InkedWhatsApp%20Image%202020-11-17%20at%204.44.31%20PM_LI.jpg" width="400" height="795" />
 
