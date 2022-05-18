@@ -1,11 +1,14 @@
-## Online_Mobile_Recharge_Website
+## Online Mobile Recharge Website  
+
 #### **_Website for making online Prepaid &amp; Postpaid Recharge of Mobile with Any type of Operator you have._**
 
-### Language used :-
+### Language used :  
 
-#### **For Back – end** or server side scripting -> I have used PHP and MYSQL Database with SQL , API’s(Application programming Interface). 
+**For Back – end** or server side scripting -> I have used PHP and MYSQL Database with SQL , API.  
+**For Front  - end** or Client side scripting ->  I have used HTML , CSS , JAVASCRIPT , JQUERY , BOOTSTRAP , etc.
 
-#### **For Front  - end** or Client side scripting ->  I have used HTML , CSS , JAVASCRIPT , JQUERY , BOOTSTRAP , etc.
+#### GIF Tutorial of this app :
+![Online Mobile Recharge Website](https://github.com/Nitinkumar3399/My_GIFs/blob/master/OMR-giphy.gif)
 
 ### Features that I have included in my website :-
 
