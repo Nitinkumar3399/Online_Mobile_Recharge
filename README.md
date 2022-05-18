@@ -14,7 +14,7 @@
 * [For Sendgrid Website](https://sendgrid.com/) 
 * [Paytm Business For Payment Gateway](https://business.paytm.com/) 
 
-#### GIF Tutorial of this app :
+#### GIF Tutorial of this website :
 ![Online Mobile Recharge Website](https://github.com/Nitinkumar3399/My_GIFs/blob/master/OMR-giphy.gif)
 
 #### Features :
