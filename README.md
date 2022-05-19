@@ -42,16 +42,10 @@
 
 **11.**	 You can use easily all other **debit card features or credit card features with these Dummy details** shown below Because these are set in Source code for **testing environment**.If you want to use debit card , use **testing details of debit card** for your **successful transaction.**_
 
----
-![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Test%20Debit%20Card.png)
+|              Test Wallet Details              |              Test Debit Card Details             |
+|:---------------------------------------------:|:------------------------------------------------:|
+| <img src="screenshot images/Test-Wallet.jpg"> | <img src="screenshots images/TestDebitCard.jpg"> |
 
----
-![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Test%20Wallet%20details.png)
-
---- 
-![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/UPI%20test%20details.png)
-
----
 **12.**	_Payment gateway that I have used in my website is real **paytm payment gatway** but right now it is in **TESTING MODE**.if you enter correct details of debit etc.on gateway then amount is deducted from your account but after deducting where it is going I really don’t know because my account is not attached with this kit , so you have to ensure that amount is not coming to my account I have provided a link below for your satisfaction that  it is a real gateway._
 
 **13.**	_If you use that paytm gateway for succesfull payment then I have received ‘payment message’ for exact amount on my mobile phone as well as on email with order ID , customer ID , Transaction date , Amount etc. details._
