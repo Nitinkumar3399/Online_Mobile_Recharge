@@ -82,9 +82,9 @@
 * _If you use that paytm gateway for successfull payment then I have received ‘payment message’ for exact amount on my mobile phone as well as on email with order ID , customer ID , Transaction date , Amount etc. details._
 
 > I have used  3 free API’s in this website
-I.	_Paytm Payment Gateway integration API._
-II.	_SMTP email sending API from SENDGRIDS._ 
-III._OTP sending API.(I have used here rand function for sending random OTPs of 6 digit)._
+* _Paytm Payment Gateway integration API._
+* _SMTP email sending API from SENDGRIDS._ 
+* _OTP sending API.(I have used here rand function for sending random OTPs of 6 digit)._
 
 > Prepaid & Postpaid Recharge
 * _You can recharge for both type **prepaid** as well as **postpaid** and also all **plans** are available._
