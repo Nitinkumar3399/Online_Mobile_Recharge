@@ -73,228 +73,204 @@
 **17.**	_There is also **feedback page,** **support page,** **Contact page,** **About us page,** **terms and conditions page** and **FAQ** available for your communication with us and to provide best services to you._
 
 
-| Intro Slider-1                                                 |
-|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (15).png" width="1000"> |
+| Intro Slider-1                                    |
+|---------------------------------------------------|
+| <img src="screenshot images/Screenshot (15).png"> |
 
-| Intro Slider-1                                                 |
-|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (16).png" width="1000"> |
+| Intro Slider-2                                    |
+|---------------------------------------------------|
+| <img src="screenshot images/Screenshot (16).png"> |
 
-| Intro Slider-1                                                 |
-|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (17).png" width="1000"> |
+| Intro Slider-3                                    |
+|---------------------------------------------------|
+| <img src="screenshot images/Screenshot (17).png"> |
 
-| Intro Slider-1                                                 |
+| Home-1                                                         |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (18).png" width="1000"> |
+| <img src="screenshot images/Screenshot (18).png" >             |
 
-| Intro Slider-1                                                 |
+| Home-2                                                         |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (19).png" width="1000"> |
+| <img src="screenshot images/Screenshot (19).png">              |
 
-| Intro Slider-1                                                 |
+| Home-3                                                         |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (20).png" width="1000"> |
+| <img src="screenshot images/Screenshot (20).png">              |
 
-| Intro Slider-1                                                 |
+| Home-4                                                         |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (21).png" width="1000"> |
+| <img src="screenshot images/Screenshot (21).png">              |
 
-| Intro Slider-1                                                 |
+| Footer-1                                                       |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (22).png" width="1000"> |
+| <img src="screenshot images/Screenshot (22).png">              |
 
-| Intro Slider-1                                                 |
+| Footer-2                                                       |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (23).png" width="1000"> |
+| <img src="screenshot images/Screenshot (23).png">              |
 
-| Intro Slider-1                                                 |
+| Login/Sign-in                                                  |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (24).png" width="1000"> |
+| <img src="screenshot images/Screenshot (24).png">              |
 
-| Intro Slider-1                                                 |
+| Register/Sign-up                                               |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (25).png" width="1000"> |
+| <img src="screenshot images/Screenshot (25).png">              |
 
-| Intro Slider-1                                                 |
+| Account verification details has been sent on your E-mail      |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (26).png" width="1000"> |
+| <img src="screenshot images/Screenshot (26).png">              |
 
-| Intro Slider-1                                                 |
+| Account has been verified when you click on the link given in you E-mail|
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (27).png" width="1000"> |
+| <img src="screenshot images/Screenshot (27).png">              |
 
-| Intro Slider-1                                                 |
+| After verification click on the login buttton                  |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (28).png" width="1000"> |
+| <img src="screenshot images/Screenshot (30).png">              |
 
-| Intro Slider-1                                                 |
+| You have entered wrong password, please enter correct details  |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (29).png" width="1000"> |
+| <img src="screenshot images/Screenshot (31).png">              |
 
-| Intro Slider-1                                                 |
+| Successfully logged in, now you will be able to recharge your mobile|
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (30).png" width="1000"> |
+| <img src="screenshot images/Screenshot (32).png">              |
+  
+| View Plans : FullTT, TOP-UP, 3G/4G, SPL/Rate Cutter, 2G        |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (33).png">              |
 
-| Intro Slider-1                                                 |
+| View Plans-2                                                   |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (31).png" width="1000"> |
+| <img src="screenshot images/Screenshot (34).png">              |
 
-| Intro Slider-1                                                 |
+| View Plans-3                                                   |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (32).png" width="1000"> |
+| <img src="screenshot images/Screenshot (35).png">              |
 
-| Intro Slider-1                                                 |
+| View Plans-4                                                   |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (33).png" width="1000"> |
+| <img src="screenshot images/Screenshot (36).png">              |
 
-| Intro Slider-1                                                 |
+| View Plans-5                                                   |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (34).png" width="1000"> |
+| <img src="screenshot images/Screenshot (37).png">              |
 
-| Intro Slider-1                                                 |
+| View Plans-6                                                   |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (35).png" width="1000"> |
+| <img src="screenshot images/Screenshot (38).png">              |
 
-| Intro Slider-1                                                 |
+| View Plans-7                                                   |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (36).png" width="1000"> |
+| <img src="screenshot images/Screenshot (39).png">              |
 
-| Intro Slider-1                                                 |
+| Payment - Standard Checkout                                    |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (37).png" width="1000"> |
+| <img src="screenshot images/Screenshot (40).png">              |
 
-| Intro Slider-1                                                 |
+| You can edit the Standard Checkout                             |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (38).png" width="1000"> |
+| <img src="screenshot images/Screenshot (41).png">              |
 
-| Intro Slider-1                                                 |
+| Transaction Initiates : generate TxN ID, Cust ID, Order No., Amount, Date & Time|
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (39).png" width="1000"> |
+| <img src="screenshot images/Screenshot (42).png">              |
 
-| Intro Slider-1                                                 |
+| Choose Payment Option for test order                           |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (40).png" width="1000"> |
+| <img src="screenshot images/Screenshot (43).png">              |
 
-| Intro Slider-1                                                 |
+| Pay using Paytm via OTP authetication                          |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (41).png" width="1000"> |
+| <img src="screenshot images/Screenshot (44).png">              |
 
-| Intro Slider-1                                                 |
+| Pay using Debit Card                                           |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (42).png" width="1000"> |
+| <img src="screenshot images/Screenshot (45).png">              |
 
-| Intro Slider-1                                                 |
+| Pay using Credit Card                                          |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (43).png" width="1000"> |
+| <img src="screenshot images/Screenshot (46).png">              |
 
-| Intro Slider-1                                                 |
+| Pay using net banking : Popular banks                          |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (44).png" width="1000"> |
+| <img src="screenshot images/Screenshot (47).png">              |
 
-| Intro Slider-1                                                 |
+| Pay using net banking : Search your bank                       |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (45).png" width="1000"> |
+| <img src="screenshot images/Screenshot (48).png">              |
 
-| Intro Slider-1                                                 |
+| Bank Demo : Failure/Success in my hand while in Testing Mode   |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (46).png" width="1000"> |
+| <img src="screenshot images/Screenshot (49).png">              |
 
-| Intro Slider-1                                                 |
+| Transaction Successful-1                                       |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (47).png" width="1000"> |
+| <img src="screenshot images/Screenshot (50).png">              |
 
-| Intro Slider-1                                                 |
+| Transaction Successful-2                                       |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (48).png" width="1000"> |
+| <img src="screenshot images/Screenshot (51).png">              |
 
-| Intro Slider-1                                                 |
+| Processing : Wait, Do not press any button                     |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (49).png" width="1000"> |
+| <img src="screenshot images/Screenshot (52).png">              |
 
-| Intro Slider-1                                                 |
+| Support Page                                                   |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (50).png" width="1000"> |
+| <img src="screenshot images/Screenshot (53).png">              |
 
-| Intro Slider-1                                                 |
+| Feedback Page                                                  |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (51).png" width="1000"> |
+| <img src="screenshot images/Screenshot (54).png">              |
 
-| Intro Slider-1                                                 |
+| Contact Us Page                                                |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (52).png" width="1000"> |
+| <img src="screenshot images/Screenshot (56).png">              |
 
-| Intro Slider-1                                                 |
+| About Us Page-1                                                |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (53).png" width="1000"> |
+| <img src="screenshot images/Screenshot (58).png">              |
 
-| Intro Slider-1                                                 |
+| About Us Page-2                                                |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (54).png" width="1000"> |
+| <img src="screenshot images/Screenshot (59).png">              |
 
-| Intro Slider-1                                                 |
+| About Us Page-3                                                |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (55).png" width="1000"> |
+| <img src="screenshot images/Screenshot (60).png">              |
 
-| Intro Slider-1                                                 |
+| FAQ Page-1                                                     |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (56).png" width="1000"> |
+| <img src="screenshot images/Screenshot (62).png">              |
 
-| Intro Slider-1                                                 |
+| FAQ Page-2                                                     |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (57).png" width="1000"> |
+| <img src="screenshot images/Screenshot (64).png">              |
 
-| Intro Slider-1                                                 |
+| Terms & Conditions-1                                           |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (58).png" width="1000"> |
+| <img src="screenshot images/Screenshot (65).png">              |
 
-| Intro Slider-1                                                 |
+| Terms & Conditions-2                                           |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (59).png" width="1000"> |
+| <img src="screenshot images/Screenshot (66).png">              |
 
-| Intro Slider-1                                                 |
+| Terms & Conditions-3                                           |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (60).png" width="1000"> |
+| <img src="screenshot images/Screenshot (67).png">              |
 
-| Intro Slider-1                                                 |
+| Terms & Conditions-4                                           |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (61).png" width="1000"> |
+| <img src="screenshot images/Screenshot (68).png">              |
 
-| Intro Slider-1                                                 |
+| Terms & Conditions-5                                           |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (62).png" width="1000"> |
+| <img src="screenshot images/Screenshot (69).png">              |
 
-| Intro Slider-1                                                 |
+| Terms & Conditions-6                                           |
 |----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (63).png" width="1000"> |
-
-| Intro Slider-1                                                 |
-|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (64).png" width="1000"> |
-
-| Intro Slider-1                                                 |
-|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (65).png" width="1000"> |
-
-| Intro Slider-1                                                 |
-|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (66).png" width="1000"> |
-
-| Intro Slider-1                                                 |
-|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (67).png" width="1000"> |
-
-| Intro Slider-1                                                 |
-|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (68).png" width="1000"> |
-
-| Intro Slider-1                                                 |
-|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (69).png" width="1000"> |
-
-| Intro Slider-1                                                 |
-|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (70).png" width="1000"> |
+| <img src="screenshot images/Screenshot (70).png">              |
 
 > _**OMR Website by Nitin Kumar**_
