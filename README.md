@@ -42,9 +42,11 @@
 
 **11.**	 You can use easily all other **debit card features or credit card features with these Dummy details** shown below Because these are set in Source code for **testing environment**.If you want to use debit card , use **testing details of debit card** for your **successful transaction.**_
 
-|              Test Wallet Details              |              Test Debit Card Details             |
-|:---------------------------------------------:|:------------------------------------------------:|
-| <img src="screenshot images/Test-Wallet.jpg"> | <img src="screenshots images/TestDebitCard.jpg"> |
+|                   Email and Text messages                   |                 Test UPI Details                |
+|:-----------------------------------------------------------:|:-----------------------------------------------:|
+| <img src="screenshot images/mobile-msg-ss.png" width="350"> |    <img src="screenshot images/UPI-Test.jpg">   |
+|                     Test Wallet Details                     |             Test Debit Card Details             |
+|        <img src="screenshot images/Test-Wallet.jpg">        | <img src="screenshot images/TestDebitCard.jpg"> |
 
 **12.**	_Payment gateway that I have used in my website is real **paytm payment gatway** but right now it is in **TESTING MODE**.if you enter correct details of debit etc.on gateway then amount is deducted from your account but after deducting where it is going I really don’t know because my account is not attached with this kit , so you have to ensure that amount is not coming to my account I have provided a link below for your satisfaction that  it is a real gateway._
 
