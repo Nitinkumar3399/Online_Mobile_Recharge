@@ -44,7 +44,7 @@
 
 #### Paytm Payment Gateway Testing Tools :
 
-|                   Email and Text messages                   |                 Test UPI Details                |
+|          Payment Details On Email & Text Messages           |                 Test UPI Details                |
 |:-----------------------------------------------------------:|:-----------------------------------------------:|
 | <img src="screenshot images/mobile-msg-ss.png" width="320"> |    <img src="screenshot images/UPI-Test.jpg">   |
 |                     Test Wallet Details                     |             Test Debit Card Details             |
