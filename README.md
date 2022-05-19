@@ -71,116 +71,229 @@
 **17.**	_There is also **feedback page,** **support page,** **Contact page,** **About us page,** **terms and conditions page** and **FAQ** available for your communication with us and to provide best services to you._
 
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (15).png" width="1000"> | <img src="screenshot images/Screenshot (16).png" width="1000"> |
- 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (17).png" width="1000"> | <img src="screenshot images/Screenshot (18).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (15).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (19).png" width="1000"> | <img src="screenshot images/Screenshot (20).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (16).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (21).png" width="1000"> | <img src="screenshot images/Screenshot (22).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (17).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (23).png" width="1000"> | <img src="screenshot images/Screenshot (24).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (18).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (25).png" width="1000"> | <img src="screenshot images/Screenshot (26).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (19).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (27).png" width="1000"> | <img src="screenshot images/Screenshot (28).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (20).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (29).png" width="1000"> | <img src="screenshot images/Screenshot (30).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (21).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (31).png" width="1000"> | <img src="screenshot images/Screenshot (32).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (22).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (33).png" width="1000"> | <img src="screenshot images/Screenshot (34).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (23).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (35).png" width="1000"> | <img src="screenshot images/Screenshot (36).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (24).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (37).png" width="1000"> | <img src="screenshot images/Screenshot (38).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (25).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (39).png" width="1000"> | <img src="screenshot images/Screenshot (40).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (26).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (41).png" width="1000"> | <img src="screenshot images/Screenshot (42).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (27).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (43).png" width="1000"> | <img src="screenshot images/Screenshot (44).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (28).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (45).png" width="1000"> | <img src="screenshot images/Screenshot (46).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (29).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (47).png" width="1000"> | <img src="screenshot images/Screenshot (48).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (30).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (49).png" width="1000"> | <img src="screenshot images/Screenshot (50).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (31).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (51).png" width="1000"> | <img src="screenshot images/Screenshot (52).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (32).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (53).png" width="1000"> | <img src="screenshot images/Screenshot (54).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (33).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (55).png" width="1000"> | <img src="screenshot images/Screenshot (56).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (34).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (57).png" width="1000"> | <img src="screenshot images/Screenshot (58).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (35).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (59).png" width="1000"> | <img src="screenshot images/Screenshot (60).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (36).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (61).png" width="1000"> | <img src="screenshot images/Screenshot (62).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (37).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (63).png" width="1000"> | <img src="screenshot images/Screenshot (64).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (38).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (65).png" width="1000"> | <img src="screenshot images/Screenshot (66).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (39).png" width="1000"> |
 
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (67).png" width="1000"> | <img src="screenshot images/Screenshot (68).png" width="1000"> |
-| Intro Slider-1                                                 | Intro Slider-2                                                 |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="screenshot images/Screenshot (69).png" width="1000"> | <img src="screenshot images/Screenshot (70).png" width="1000"> |
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (40).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (41).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (42).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (43).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (44).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (45).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (46).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (47).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (48).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (49).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (50).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (51).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (52).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (53).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (54).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (55).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (56).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (57).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (58).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (59).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (60).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (61).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (62).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (63).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (64).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (65).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (66).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (67).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (68).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (69).png" width="1000"> |
+
+| Intro Slider-1                                                 |
+|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (70).png" width="1000"> |
 
 
 <img align="left" src="https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/InkedWhatsApp%20Image%202020-11-17%20at%204.44.31%20PM_LI.jpg" width="400" height="795" />
