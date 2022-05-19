@@ -44,7 +44,7 @@
 
 |                   Email and Text messages                   |                 Test UPI Details                |
 |:-----------------------------------------------------------:|:-----------------------------------------------:|
-| <img src="screenshot images/mobile-msg-ss.png" width="350"> |    <img src="screenshot images/UPI-Test.jpg">   |
+| <img src="screenshot images/mobile-msg-ss.png" width="320"> |    <img src="screenshot images/UPI-Test.jpg">   |
 |                     Test Wallet Details                     |             Test Debit Card Details             |
 |        <img src="screenshot images/Test-Wallet.jpg">        | <img src="screenshot images/TestDebitCard.jpg"> |
 
