@@ -42,11 +42,19 @@
 
 **11.**	 You can use easily all other **debit card features or credit card features with these Dummy details** shown below Because these are set in Source code for **testing environment**.If you want to use debit card , use **testing details of debit card** for your **successful transaction.**_
 
+#### Paytm Payment Gateway Testing Tools :
+
 |                   Email and Text messages                   |                 Test UPI Details                |
 |:-----------------------------------------------------------:|:-----------------------------------------------:|
 | <img src="screenshot images/mobile-msg-ss.png" width="320"> |    <img src="screenshot images/UPI-Test.jpg">   |
 |                     Test Wallet Details                     |             Test Debit Card Details             |
 |        <img src="screenshot images/Test-Wallet.jpg">        | <img src="screenshot images/TestDebitCard.jpg"> |
+
+|    ✅ Success - Payment Details From Paytm Business Dashboard   |
+|:------------------------------------------------------------:|
+| <img src="screenshot images/Payments Dashboard-Success.jpg"> |
+|    ❌ Failed - Payment Details From Paytm Business Dashboard    |
+|  <img src="screenshot images/Payments Dashboard-Failed.jpg"> |
 
 **12.**	_Payment gateway that I have used in my website is real **paytm payment gatway** but right now it is in **TESTING MODE**.if you enter correct details of debit etc.on gateway then amount is deducted from your account but after deducting where it is going I really don’t know because my account is not attached with this kit , so you have to ensure that amount is not coming to my account I have provided a link below for your satisfaction that  it is a real gateway._
 
@@ -55,9 +63,7 @@
 #### 14.	I have used  3 free API’s  for this project :-
 
 ##### I.	_Paytm Payment Gateway integration API._
-
 ##### II.	_SMTP email sending API from SENDGRIDS._ 
-
 ##### III.	_OTP sending API.(I have used here rand function for sending random OTPs of 6 digit). _
 
 **15.**	_You can recharge for both type **prepaid** as well as **postpaid** and also all **plans** are available ._
