@@ -78,7 +78,7 @@
 |    ❌ Failed - Payment Details From Paytm Business Dashboard    |
 |  <img src="screenshot images/Payments Dashboard-Failed.jpg" width="700"> |
 
-> **Receive order details on your mobile phone via Email or Text messages **
+> **Receive order details on your mobile phone via Email or Text messages**
 * _If you use that paytm gateway for successfull payment then I have received ‘payment message’ for exact amount on my mobile phone as well as on email with order ID , customer ID , Transaction date , Amount etc. details._
 
 > **I have used  3 free API’s in this website**
