@@ -295,6 +295,4 @@
 |----------------------------------------------------------------|
 | <img src="screenshot images/Screenshot (70).png" width="1000"> |
 
-
-<img align="left" src="https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/InkedWhatsApp%20Image%202020-11-17%20at%204.44.31%20PM_LI.jpg" width="400" height="795" />
-
+> _**OMR Website by Nitin Kumar**_
