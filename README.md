@@ -71,6 +71,11 @@
 **17.**	_There is also **feedback page,** **support page,** **Contact page,** **About us page,** **terms and conditions page** and **FAQ** available for your communication with us and to provide best services to you._
 
 
+| Intro Slider-1                                                 | Intro Slider-2                                                 |
+|----------------------------------------------------------------|----------------------------------------------------------------|
+| <img src="screenshot images/Screenshot (15).png" width="1000"> | <img src="screenshot images/Screenshot (16).png" width="1000"> |
+ 
+ 
 ![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Screenshot%20(15).png)
 
 ![alt text](https://github.com/Nitinkumar3399/Online_Mobile_Recharge/blob/main/screenshot%20images/Screenshot%20(16).png)
