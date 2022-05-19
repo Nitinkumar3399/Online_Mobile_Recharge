@@ -52,9 +52,9 @@
 
 |    ✅ Success - Payment Details From Paytm Business Dashboard   |
 |:------------------------------------------------------------:|
-| <img src="screenshot images/Payments Dashboard-Success.jpg"> |
+| <img src="screenshot images/Payments Dashboard-Success.jpg" width="700"> |
 |    ❌ Failed - Payment Details From Paytm Business Dashboard    |
-|  <img src="screenshot images/Payments Dashboard-Failed.jpg"> |
+|  <img src="screenshot images/Payments Dashboard-Failed.jpg" width="700"> |
 
 **12.**	_Payment gateway that I have used in my website is real **paytm payment gatway** but right now it is in **TESTING MODE**.if you enter correct details of debit etc.on gateway then amount is deducted from your account but after deducting where it is going I really don’t know because my account is not attached with this kit , so you have to ensure that amount is not coming to my account I have provided a link below for your satisfaction that  it is a real gateway._
 
