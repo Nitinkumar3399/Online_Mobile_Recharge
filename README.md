@@ -55,7 +55,7 @@
 > **Paytm Payment Gateway Integration : Choose Payment Options**
 * _After selecting plans you will be redirecting to **payment gateway** option where you can edit your actual TOTAL amount just by clicking on it and proceed for payment._
 * Different payment options available :
-  * Pay using Paytm via OTP authetication
+  * Pay using Paytm via OTP authentication
   * Pay using Credit Card
   * Pay using Debit Card
   * Pay using net banking :
